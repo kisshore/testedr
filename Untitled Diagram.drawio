@@ -1,1 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2020-07-19T12:07:19.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="96-bX4BFo8bxKJA9Hue7" version="13.4.6" type="github"><diagram id="Cqvzn4W4fedl00qBZGV9" name="Page-1">7Vptc+I2EP41fOkMjC3ZYD4GCNf2ri0zmfaaT4ywha1iW64sAvTX38qWwW8JSY+XJJfMZGytVra8+zy7K4kOHkfbT4IkwW/co2EHGd62gycdhEwDO3BRkl0usR0jF/iCeVrpILhj/9FipJaumUfTiqLkPJQsqQpdHsfUlRUZEYJvqmpLHlbfmhCfNgR3Lgmb0q/Mk0EudWzjIP+ZMj8o3mwauicihbIWpAHx+KYkwrcdPBacy/wu2o5pqIxX2CUfN32kdz8xQWP5nAHY+PPXPz7/dW+I+ep36m6s2df7Lh7oycld8cXUAwPoJhcy4D6PSXh7kI4EX8ceVY81oHXQ+cJ5AkIThP9QKXfam2QtOYgCGYW6F2Ysdn/r8VnjXjV6dtGcbMudk51u5XNVE3zUBlqU8rVw6RMfXmCJCJ/KJ/ScvacA4pRHFOYD4wQNiWQP1XkQjTV/r6eH3ghBdiWFhLNYpqUnz5QAFDRt+gW8NGkwrrn2iD6ycFkfbvIZFK3SpxxEGVxeAB390Q8kXGszNKDE1zJkMR3vuamc6JE02IPngQrJgG1fyIKGM54yyXgMfQsuJY9KCjch81WHVBAbEd1ywe9UVMEFPEvU+6Otr0JSj2xS3AN3pfCclBLhBvOUigem4DFasjAc85CLbMJ4ajs2tkAOQz0GDy/6Yh7TPQDVnOj2aQg2IaMHWEOnZw2q7hraeXtziDB9bc2gFFwGxuM4K/n65a7E9g8aBfCrjgLWsAITc3gkCtT0LxIF8PEoUBCSRVmuHWXXmzQ5hARSNJZsqxD1f8OCfsMkkFKVBzfq29F0nYSceL0NW7GIeoz0uPBBrNqJasO9y6OIx+CLqQzW0QKuWP2D26czoWwU0HU6T/lSbgBl8xCQ3ksf1FNMZBjJtvuUVi+J/RPFDsfpoWrsMPtGM3YY+whTDh/9c4UP+zgGGh4uxQHNA9CzRx170hbeC+gseSx1PDFRyeEsUr4ImfJclLqEwvXzekFFTCVNM1edxAG4mmetpu2LTFw2vOWcyfCDl5OvZPd2Dh2lXqg6RsRd+VkGKGXPZfb3PIa3U9X1YtxjUMsvGeQW0QNegtQjUpFUyRVFU+4yEnYzLneBABD1psjad8yzjnmloag497i7oqJrIidj5AnoWEWDOWjCAbfAAZ+Lh847hIN1FA7Kt2l3IUjspSoU5ViAAm5JYnJCbw/qRbbhNCPvsCXsDs/k7mKJXPF3P5SqBk5IXHF8/9+1WmdmAbSbZhEUbGyYTrI9dMKdr6/ZUxaFYAIWB8eG4DPlfd0Nk17UhygWZu8uxDX8gfllrVyXgq9orc4ul+Va1MgJdbxGzPOywnQTMEnvEpJVfhtYAzSK1VNwv19Fg201wGCaLUkYnYv8ZnM9pjJg92b2S/cO1jtgs3frDMeqBeLmeso0WyLx+ZyB3mEofruZGVnmdTOz2VwmrZy0q7ZCFpwIr5sIvt11f/phKArxs0lR1L8gRVFb9vyg6OUoalYBMUDXpShq5k9gFV1QIt8xK+2aEwbXZuVH4nxNiRNfe0mLWhLnfl+nlD9/nMyJ24pb66IctVo4mi//1PLyhOvOwxYeSEikzBsv0qSsKgrdMY8S8F+2o/7k+jSf43tfnw6rRO5fe3mK2jaJz7JZ8Snf+fnYpeg096xMuxnPnUsujItEcdmTxvydJzkxzI9fvvcosHF2Zzk1RxWVWfGI/IhSj6o54QTHeOgZRwlVN7Tht2TyFm6cAM+oWq+2HX4hw27i2T4bns2Gmd4YnvUm9tEj8Ecc82zcf1/2eMbRxiuAJz6+7YSMlnB7tiMCjN86PIdvAp7DtwhPbKvf2lwZoG3EPktZOBM0BTuRjxOsojZEFzvBgubhd655yXL4tTC+/QY=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-19T12:19:23.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="iTWeygy94MtMrv1YSl9N" version="13.4.6" type="github">
+  <diagram id="Cqvzn4W4fedl00qBZGV9" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="30UJOKVY0r_kNecw4PWY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="30UJOKVY0r_kNecw4PWY-1" target="30UJOKVY0r_kNecw4PWY-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="441" />
+              <mxPoint x="650" y="351" />
+              <mxPoint x="761" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticsearch_service;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="391" width="62" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="30UJOKVY0r_kNecw4PWY-3" target="30UJOKVY0r_kNecw4PWY-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="649" y="261" />
+              <mxPoint x="649" y="351" />
+              <mxPoint x="761" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png;" parent="1" vertex="1">
+          <mxGeometry x="488.27" y="231" width="60.47" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
+          <mxGeometry x="30" y="111" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png" parent="1" vertex="1">
+          <mxGeometry x="40" y="241" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/grafana-128.png" parent="1" vertex="1">
+          <mxGeometry x="768" y="317" width="69" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-10" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;DataCollection&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="125" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-11" value="Kube-API-Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="84" y="246" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png" parent="1" vertex="1">
+          <mxGeometry x="40" y="312" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-13" value="k8s-dashboard-proxy-*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="84" y="317" width="126" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png" parent="1" vertex="1">
+          <mxGeometry x="41" y="343" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-21" value="filebeat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="85" y="348" width="126" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png" parent="1" vertex="1">
+          <mxGeometry x="40" y="441" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-23" value="kubernetes-dashboard-*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="84" y="446" width="146" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-24" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Kubernetes&amp;nbsp;&lt;br&gt;Components&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="135" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-25" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Grafana&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="762.5" y="221" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="30UJOKVY0r_kNecw4PWY-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="30" y="231" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="30UJOKVY0r_kNecw4PWY-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="346.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="230" y="351" />
+              <mxPoint x="531" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="30" y="421.5" width="200" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="30UJOKVY0r_kNecw4PWY-38" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Presentation&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="125" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-1" value="Prometheus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468.5" y="292" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-2" value="filebeat run as different pod for collecting logs of kubernetes-dashboard pods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14" y="581" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-3" value="filebeat run as side car for dashboard proxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="375" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="29.5" y="490.5" width="200" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="37" y="510" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.023;exitY=0.155;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="462" as="targetPoint" />
+            <mxPoint x="234.0999999999999" y="492.19500000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-6" value="filebeat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81" y="515" width="126" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="304" width="200" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-9" value="kubeapi server pod scrapes metrics to Prometheus&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="232" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-10" value="ElasticSearch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="466" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt-J9t2IYd21ksrmj4X-11" value="&lt;h1&gt;OSFI - Kubernetes - SRE Flowchart&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="178" y="36" width="485" height="46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
