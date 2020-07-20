@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T12:56:59.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="nknTFstpbHveOjtkQjvg" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T17:16:37.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="jFpqKYCoRvJeUkGgGB9P" version="13.4.8" type="github">
   <diagram id="Cqvzn4W4fedl00qBZGV9" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,6 +127,18 @@
         </mxCell>
         <mxCell id="67G2NjsrTDxUntvFHJUg-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAYFBMVEX///9AvrACe5kzvK30+/u+5uE6va5CwbEAeZiH0sh2zsMfk6EZjp8AcJGEucmHusrR7emY2dGdztPe8vBYxbgguKkqoaY7t64OhJwdkqEAdJcAg5e2491UxLes39mP1c2vPaidAAAB0klEQVR4nO3d7U7VUBCG0ZbWAyjoQSj4AXL/d6kCf0lqMntmwPXcwcrbnf1nJ50mSZIkSZIkSZIkSZIkSdK773h1HtDXasarXd9syyGgi8/Vklc6bnNIp58uexLX5RAlPOtJvFpigH+FJy2JQb5nYUfiGjXhs7AhMVrYjxgubEeMF3YjDhA2I44Q9iIOEbYijhF2Ig4SNiKOEvYhDhO2IY4TdiEOFDYhjhT2IA4VtiCOFXYgDhY2II4Wnlx+ee/C8hXHC6tXTBAWr5ghrCWmCEuJOcJKYpKwkJglrCOmCcsujTxhFTFRWETMFNYQU4UlxFxhBTFZWEDMFuYT04XpxHxhNjFQeLtTmEyME853e4W5xEDh7s80lxgonOdvHYmhwvn7j7Od5RFjhad3txc7+5n1WDNW+Me4u49vVLi7AyEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEh4dsWTmXC8yzhTZFwuc8S3heNuK1Zwukh6H/A/wj8lQac1oeCFbe0U/jU47bkts1ph/Cl9fghtetknyRJkiRJkiRJkiRJkv7TfgN9UWAmg/iaUAAAAABJRU5ErkJggg==;" vertex="1" parent="1">
           <mxGeometry x="40" y="506.5" width="29.5" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="67G2NjsrTDxUntvFHJUg-5" value="&lt;b&gt;Work in progress&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="611" y="395" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67G2NjsrTDxUntvFHJUg-7" value="&lt;b&gt;Completed&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="284" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67G2NjsrTDxUntvFHJUg-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flat-business-3/512/Flat_business-2-128.png" vertex="1" parent="1">
+          <mxGeometry x="592" y="281" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="67G2NjsrTDxUntvFHJUg-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/date-and-time-fill-outline/64/Hourglass_loading_waiting_sand_watch-128.png" vertex="1" parent="1">
+          <mxGeometry x="592" y="397.5" width="22" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
